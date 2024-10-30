@@ -1,0 +1,1 @@
+ C:\\Users\\HP\\Desktop\\Flutter\\event_horizon\\.dart_tool\\flutter_build\\acfad95760403fe5b612163939163d34\\native_assets.yaml: 
